@@ -1,4 +1,4 @@
-# My Soot Case 🧳
+# My Soot Case 
 
 ### **Built for the Brainrot Jia.seed Hackathon**
 
